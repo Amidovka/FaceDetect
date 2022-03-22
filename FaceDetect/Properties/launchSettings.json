@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FaceDetect": {
+      "commandName": "Project",
+      "commandLineArgs": "43312b91c1b0461e93ba1c79d0083a81 \"D:\\Backend\\portrait-volunteer-group-posing_107420-36885.jpg\""
+    }
+  }
+}
